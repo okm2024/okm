@@ -1,0 +1,25 @@
+{
+  "name": "OKM",
+  "logoURI": "https://raw.githubusercontent.com/okm2024/okm/main/logo.png",
+  "keywords": [
+      "okm",
+      "OKM",
+      "ok"
+    ],
+    "timestamp": "2024-07-26T04:48:37.506Z",
+    "tokens": [
+      {
+      "chainId": 137,
+      "address": "0x0c69f43267Ba4e19eD8fED6de31f38e566F8f20B",
+      "name": "OKM",
+      "symbol": "OKM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/okm2024/okm/main/logo.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
